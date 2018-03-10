@@ -1,3 +1,2 @@
 # Python
-Scripts I create along the way using Python will be listed in this repo.
-Lets have a good one, LETS GO!
+I've created this repository for the sole purpose of storing python scripts I've created while actively studying python.
